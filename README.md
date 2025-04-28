@@ -12,8 +12,6 @@ To reproduce the results in this notebook, use the following versions:
 | cvxpy       | 1.6.0          |
 | matplotlib  | 3.10.0         |
 
-**Note:**  
-- `os`, `sys`, `time`, `calendar`, and `datetime` are built-in Python libraries and do not require separate installation.
 
 ### Instructions
 To ensure reproducibility, create a virtual environment and install the specified versions.  
