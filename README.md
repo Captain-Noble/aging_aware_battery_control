@@ -1,4 +1,5 @@
-This repository contains data and notebooks for the paper [`Aging-Aware Battery Control via Convex Optimization`](https://stanford.edu/~boyd/papers/aging_aware_battery_control.html).  
+This repository contains data and notebooks for the paper [`Aging-Aware Battery Control via Convex Optimization`](https://stanford.edu/~boyd/papers/aging_aware_battery_control.html). 
+![Smoothing Animation](smoothing.gif)
 ## Environment and Library Versions
 
 To reproduce the results in this notebook, use the following versions:
